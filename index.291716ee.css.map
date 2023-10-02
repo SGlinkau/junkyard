@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.291716ee.css","src/sass/index.css","src/sass/index.scss"],"sourcesContent":["body {\n  background-color: #000;\n}\n\n/*# sourceMappingURL=index.291716ee.css.map */\n","body {\n  background-color: black;\n}/*# sourceMappingURL=index.css.map */","body{\n    background-color: black;\n};"],"names":[],"version":3,"file":"index.291716ee.css.map"}
