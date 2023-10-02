@@ -1,0 +1,1 @@
+This repo is a "junkyard" for my side and small projects that I sometimes do just to practice my skills and test new stuff.
